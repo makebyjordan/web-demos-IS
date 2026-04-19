@@ -1,32 +1,4 @@
 
-Buscar Grupos de Capas...
-⌥Q
-Abrir en nueva pestaña
-Renombrar
-Eliminar
-Logo
-AltQ
-Capas de Marcadores & Gestor de Pestañas
-La capa sutil para apilar tu web.
-v1.2.5
- 
-Centro de Control
-Mostrar siempre (Fijar)
-Color Dinámico
-Mostrar Favicons
-0.85
-0.9
-1.0
-1.1
-1.2
-Solo Texto
-Solo Ícono
-Ícono y Texto
-Abrir Gestor de Capas
-→
-Restablecer valores
-Beta Acceso total gratuito (Capas ilimitadas hasta 30.06.2026)
-AltQ © BLKOUT.studio
 # Inteligencia Sevilla - Demos de IA
 
 Este proyecto es una plataforma interactiva diseñada para **Inteligencia Sevilla**, una consultora especializada en la implementación de soluciones de Inteligencia Artificial para empresas. La web tiene como objetivo mostrar el potencial real de la IA a través de demostraciones en vivo.
